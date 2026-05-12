@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/twitter/follow/Shubham_Saboo" alt="Twitter">
   </a>
 </p>
-
+<p>A LLM learning Repository</p>
 <p align="center">
   <!-- Keep these links. Translations will automatically update with the README. -->
   <a href="https://www.readme-i18n.com/Shubhamsaboo/awesome-llm-apps?lang=de">Deutsch</a> | 
